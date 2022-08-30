@@ -1,4 +1,6 @@
 "# Deber-AndroidS-Login" 
+##Integrantes
+### Erick Andrade, Jhosef Rea, Josué Singaña, Christian Soledispa
 Login
 ![WhatsApp Image 2022-08-29 at 23 12 09](https://user-images.githubusercontent.com/65979995/187347657-802bb6d6-09ac-4d38-93ae-28788e054363.jpeg)
 Register
