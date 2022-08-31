@@ -1,8 +1,8 @@
 
 # Deber-AndroidS-Login 
-
+<p align="center">
 ![android studio logo](https://user-images.githubusercontent.com/85883884/187565215-fdc252d7-f07c-4831-a78a-858953ca9231.jpg)
-
+</p>
 Implemetar una aplicacion en Android studio que escriba o lea de firebase (Realtime Database):
 
 ## Integrantes
