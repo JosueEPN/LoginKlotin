@@ -1,8 +1,7 @@
 
 # Deber-AndroidS-Login 
 
-![25-255642_android-studio-macos-icon-hd-png-download](https://user-images.githubusercontent.com/85883884/187564979-d2d0b46c-fb88-44cc-981d-2fe217f3f84c.png)
-
+![android studio logo](https://user-images.githubusercontent.com/85883884/187565215-fdc252d7-f07c-4831-a78a-858953ca9231.jpg)
 
 Implemetar una aplicacion en Android studio que escriba o lea de firebase (Realtime Database):
 
