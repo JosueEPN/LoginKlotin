@@ -1,6 +1,15 @@
+<p align="center">
 # Deber-AndroidS-Login 
+</p>
+
+<p align="center">
 ## Integrantes
+</p>
+
+<p align="center">
 ### Erick Andrade, Jhosef Rea, Josué Singaña, Christian Soledispa
+</p>
+
 <p align="center">
 Login
 </p>
